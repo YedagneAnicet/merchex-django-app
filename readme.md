@@ -1,0 +1,3 @@
+# Mon Premier App en Django : Merchex
+
+Créer une démonstration de concept pour une nouvelle application web : la bourse aux marchandises Merch Exchange. Il s'agira d'une application où les gens pourront répertorier divers articles de musique rares et de collection, tels que des disques, des affiches et des billets de concert. Les utilisateurs doivent pouvoir publier des listes des articles qu'ils souhaitent vendre.
